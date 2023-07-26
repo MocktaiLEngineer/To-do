@@ -20,13 +20,14 @@ body {
 
 h1 {
   color: #fff;
+  margin-top: 1rem;
   margin-bottom: 0.5rem;
   font-size: 1.75rem;
 }
 
 .TodoContainer {
   background: #1A1A40;
-  margin-top: 5rem;
+  margin-top: 3rem;
   padding: 2rem;
   border-radius: 5px;
 }

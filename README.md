@@ -1,6 +1,8 @@
-# To-do React app
+# To Do React app
 
 A sample To Do application built using React.
+
+![Screenshot](To-do.png)
 
 ## To run it locally
 
